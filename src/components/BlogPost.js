@@ -1,7 +1,6 @@
 import React from "react";
 import BlogContent from "./BlogContent";
 import Comment from "./Comment";
-
 function BlogPost() {
   return (
     <div id="blog-post">
@@ -12,5 +11,4 @@ function BlogPost() {
     </div>
   );
 }
-
 export default BlogPost;
